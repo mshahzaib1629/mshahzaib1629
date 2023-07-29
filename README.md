@@ -1,8 +1,8 @@
 ### Hi there 👋, I'm
-# Muhammad Shahzaib Minhas
-- 🔭 I’m currently working as Full Stack Software Engineer
-- 🌱 I’m mostly focused on Backend Development
-- 💬 Ask me about MERN Stack, MEAN Stack development, and designing project architecture
+### Muhammad Shahzaib Minhas
+<p align="justify">
+    Hi, I am a master's student at COMSATS University, specializing in Computer Vision. I'm passionate about changing lives with Machine Learning & Computer Vision techniques. Along with that, I'm working as a Full Stack Software Engineer at Code District, Lahore, Pakistan. Having 3 years of industrial experience in working with Node.js, Nest.js, Flutter, React.js & Angular, I've built and deployed many scalable apps backed with SQL & NoSQL databases.
+</p>
 <p align="center">
     <a href="https://mshahzaib1629.com"><img src="https://img.shields.io/badge/Portfolio-Shahzaib%20Minhas-25D366?style=for-the-badge&logo=web&logoColor=white&color=bd3b22" style="border-radius:8px"/></a>
     <a href="https://wa.me/923314783069?text=Hi%20Shahzaib!%0AI'm%20"><img src="https://img.shields.io/badge/Shahzaib%20Minhas-25D366?style=for-the-badge&logo=whatsApp&logoColor=white" style="border-radius:8px" /></a>
