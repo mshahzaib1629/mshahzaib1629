@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm
 ### Muhammad Shahzaib Minhas
 <p align="justify">
-    A master's student at COMSATS University, specializing in Computer Vision. I'm passionate about changing lives with Machine Learning & Computer Vision techniques. Along with that, I'm working as a Full Stack Software Engineer at Code District, Lahore, Pakistan. Having 3 years of industrial experience in working with Node.js, Nest.js, Flutter, React.js & Angular, I've built and deployed many scalable apps backed with SQL & NoSQL databases.
+    A master's student at COMSATS University, specializing in Computer Vision. I'm passionate about changing lives with Machine Learning & Computer Vision techniques. Along with that, I'm working as a Full Stack Software Engineer at Code District, Lahore, Pakistan. Having 3 years of industrial experience in working with Node.js, Nest.js, Flutter, React.js & Angular, I've built and deployed many scalable apps backed with SQL & NoSQL databases. I have done Masters in Computer Science, specialized in Deep Learning and Computer Vision. I'm excited to bring AI to life for human prosperity.
 </p>
 <p align="center">
     <a href="https://mshahzaib1629.com"><img src="https://img.shields.io/badge/Portfolio-Shahzaib%20Minhas-25D366?style=for-the-badge&logo=web&logoColor=white&color=bd3b22" style="border-radius:8px"/></a>
