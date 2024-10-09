@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm
 ### Muhammad Shahzaib Minhas
 <p align="justify">
-    Working as a Full Stack Software Engineer at Code District, Lahore, Pakistan. Having 3.5 years of industrial experience in working with Node.js, Nest.js, Flutter, React.js, Angular, LangChain & OpenAI, I've built and deployed many scalable apps backed with SQL & NoSQL databases. I have done Masters in Computer Science, specializing in Deep Learning and Computer Vision. I'm excited to bring AI to life for human prosperity.
+    An experienced Software Engineer with 4+ years in full-stack development. I am deeply interested in designing solutions to complex problems. In my recent projects, I have utilized LLM models and applied RAG techniques to integrate generative AI into software products. I have a proven track record in leading teams and delivering high-quality projects.
 </p>
 <p align="center">
     <a href="https://mshahzaib1629.com"><img src="https://img.shields.io/badge/Portfolio-Shahzaib%20Minhas-25D366?style=for-the-badge&logo=web&logoColor=white&color=bd3b22" style="border-radius:8px"/></a>
